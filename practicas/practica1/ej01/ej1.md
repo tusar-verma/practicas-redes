@@ -3,7 +3,7 @@
 
 ### a
 
-$ I(s_1) = -\log(p_1) = -\log(1 - p_0)$
+$I(s_1) = -\log(p_1) = -\log(1 - p_0)$
 
 $$ 
 \begin{align*}
